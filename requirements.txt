@@ -1,0 +1,5 @@
+python-dotenv
+python-magic
+termcolor
+tqdm
+boto3
